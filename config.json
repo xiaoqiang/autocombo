@@ -1,0 +1,6 @@
+{
+    "source": "/var/www/less/page",
+    "type": "less",
+    "css": "/var/www/css/page",
+    "html": "/var/www/html"
+}
