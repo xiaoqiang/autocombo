@@ -9,13 +9,16 @@ autocombo less module from html to css
 
 you must modify ``config.json`` first.
 It just like this:
+
     {
         "html": "/var/www/html", //html page path
         "less": "/var/www/less/page", // combo less path
         "css": "/var/www/css/page", // parser combo less to css path (if is null the same as combo less path)
         "minify": false // parser combo css minify option
     }
+
 In the HTML just like this:
+
     <html>
         <head><head>
         <body>
@@ -23,7 +26,9 @@ In the HTML just like this:
             <div class="mod-test"></div>
         <body>
     <html>
+
 The result of combo less like this:
+
     /**
     **html:/var/www/html/test.html
     **/
