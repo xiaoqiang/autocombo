@@ -2,5 +2,5 @@
     "html": "/var/www/html",
     "less": "/var/www/less/page",
     "css": "/var/www/css/page",
-    "minify": false    
+    "minify": true    
 }
