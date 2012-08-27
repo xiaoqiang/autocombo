@@ -1,6 +1,6 @@
 {
-    "source": "/var/www/less/page",
-    "type": "less",
+    "html": "/var/www/html",
+    "less": "/var/www/less/page",
     "css": "/var/www/css/page",
-    "html": "/var/www/html"
+    "minify": false    
 }
