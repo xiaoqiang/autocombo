@@ -47,7 +47,7 @@ watch file change and combo real time:
 
     $ autocombo -w/--watch
 
-if your need help information:
+if you need help information:
   
     $ autocombo -h/--help
 
