@@ -45,5 +45,9 @@ combo once:
     $ autocombo
 watch file change and combo real time:
 
-    $ autocombo -w
+    $ autocombo -w/--watch
+
+if your need help information:
+  
+    $ autocombo -h/--help
 
